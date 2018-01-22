@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lewislim579.github.io/2018/01/03/hello-world/</loc>
+    <loc>https://lewislim579.github.io/2018/01/22/firstpost/</loc>
     
-    <lastmod>2018-01-03T02:33:22.230Z</lastmod>
+    <lastmod>2018-01-22T04:01:28.085Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lewislim579.github.io/all-archives/index.html</loc>
+    
+    <lastmod>2018-01-22T02:20:11.080Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lewislim579.github.io/all-tags/index.html</loc>
+    
+    <lastmod>2018-01-22T02:19:42.903Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lewislim579.github.io/all-categories/index.html</loc>
+    
+    <lastmod>2018-01-22T02:19:39.424Z</lastmod>
     
   </url>
   
